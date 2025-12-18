@@ -3,4 +3,4 @@ This is my attempt at trying to make a memory allocator in C. It should mimic th
 
 TODO
 
--[] Connect two free memory blocks to avoid fragmentation.
+- [ ] Connect two free memory blocks to avoid fragmentation.
